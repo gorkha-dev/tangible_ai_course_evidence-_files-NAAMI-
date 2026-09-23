@@ -1,0 +1,10 @@
+Project: AI Output Policy & Grounding Framework
+Objective: Mitigate hallucination risks and establish operational boundaries for AI utilization.
+
+1. Hallucination Mitigation via Constraints (Grounding)
+- Concept: AI systems must be explicitly constrained to rely solely on provided, verified data sources.
+- Action: If the necessary facts are missing from the given context, the system is mandated to output a fallback response rather than attempting to predict or improvise answers.
+
+2. Recognizing AI Outputs as Drafts
+- Rule: AI-generated responses (e.g., customer service policies, data summaries) must be treated exclusively as preliminary drafts.
+- Action: All outputs require mandatory human review and verification for accuracy, tone, and compliance before being finalized or shared externally to prevent legal and financial liability.

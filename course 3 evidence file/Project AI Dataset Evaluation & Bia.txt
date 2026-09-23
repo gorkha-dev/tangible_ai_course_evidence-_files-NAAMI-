@@ -1,0 +1,10 @@
+Project: AI Dataset Evaluation & Bias Recognition
+Objective: Understand the root causes of AI bias and establish protocols to identify biased training data.
+
+1. Understanding Training Data and Dataset Bias:
+- Root Cause: AI systems do not have personal prejudices; they simply reflect and scale the biases already present in their training data.
+- Mechanism: If historical data favors certain demographics (e.g., Western names over non-Western names, or male applicants over female), the AI treats that historical prejudice as a statistical fact and applies it universally.
+
+2. Recognize AI Bias (Application):
+- Action: We actively evaluate AI outputs for the four primary sources of bias: Historical (inherited past prejudice), Representation (lack of data for marginalized groups), Proxy (using zip codes or schools to infer demographics), and Disparate Impact (neutral process resulting in a discriminatory outcome).
+- Protocol: Fairness testing must be an ongoing operational requirement, as a clean result once does not guarantee long-term objectivity.

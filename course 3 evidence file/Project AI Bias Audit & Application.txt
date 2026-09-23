@@ -1,0 +1,10 @@
+Project: AI Bias Audit & Application
+Objective: Apply bias recognition techniques to audit AI outputs and prevent discriminatory decision-making.
+
+1. Application of Bias Recognition:
+- We actively audited the AI CV screening tool by running A/B tests with identical qualifications but different demographic identifiers (Gender and Name).
+- Discovered that the AI systematically downranked candidates with female names (Sita) or non-Western names (Bishnu) despite identical career gaps and qualifications.
+
+2. Operational Change:
+- Recognizing this bias, we mandate that AI tools used in HR and screening must undergo demographic parity testing before deployment.
+- Human oversight is required to override biased AI penalizations (e.g., unfairly penalizing a career gap based on gender or ethnicity).

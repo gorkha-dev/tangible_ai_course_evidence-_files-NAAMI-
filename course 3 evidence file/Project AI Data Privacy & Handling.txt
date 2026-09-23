@@ -1,0 +1,14 @@
+Project: AI Data Privacy & Handling Protocol
+Objective: Establish strict rules for handling sensitive data and prevent accidental leaks into public AI models.
+
+1. Identifying Sensitive Personal Data:
+- All employees must be able to classify Personally Identifiable Information (PII). This includes customer names, phone numbers, home addresses, health conditions, and minors' data. 
+
+2. The Personal "Never-Paste" List:
+- The following items are strictly prohibited from being pasted into any public or unauthorized AI chatbot:
+  a. Customer spreadsheets or contact lists.
+  b. Internal financial data or unreleased product details.
+  c. Passwords, API keys, or confidential source code.
+
+3. Sensitive Data Handling with AI Tools:
+- Rule: "The paste you can't take back." Employees must understand that entering sensitive data into free, public AI tools constitutes an irreversible data breach, as that data may be used to train external models. Always classify the data before pasting.

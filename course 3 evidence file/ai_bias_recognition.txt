@@ -1,0 +1,12 @@
+Project: AI Bias Recognition & Awareness
+Objective: Identify and document how AI systems can perpetuate unfair outcomes and biases.
+
+1. The Illusion of Objectivity:
+- AI systems often appear neutral and consistent, leading users to falsely believe they are completely objective. However, AI can inherit and amplify human biases present in its training data.
+
+2. Real-World Example (CV Screening Bias):
+- When presented with identical CVs containing a 2-year career gap, an AI system scored a male applicant (8.4/10) significantly higher than a female applicant (6.1/10).
+- The AI exhibited gender bias by interpreting the male's career gap as "resilience" and the female's identical gap as a "lack of professional continuity."
+
+3. Key Takeaway:
+- Machine consistency does not equal fairness. AI outputs, especially in critical decision-making processes like hiring, must be actively monitored for discriminatory patterns.

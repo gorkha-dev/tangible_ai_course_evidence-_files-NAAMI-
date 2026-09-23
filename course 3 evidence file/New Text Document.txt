@@ -1,0 +1,11 @@
+Project: AI Verification & TRACE Protocol Master File
+Objective: Establish a comprehensive framework for auditing AI outputs, verifying facts, and correcting hallucinations.
+
+1. Fact-Checking (AI Output Verification):
+- Action: All AI-generated facts must be systematically cross-referenced with verified source documents before approval. 
+
+2. Identifying and Correcting Confident Incorrect AI Outputs:
+- Action: Any confident AI claim lacking a direct source quote is immediately flagged as a potential hallucination and must be corrected by a human reviewer using the original data.
+
+3. AI Output Verification (Trust but Verify):
+- Rule: "Confidence is not evidence." We implement the TRACE auditing method (Sample outputs, Risk-weight sensitive data, force AI to Prove it with quotes, and Keep a trail) to ensure we verify AI outputs at scale without blindly trusting the machine.

@@ -1,0 +1,10 @@
+Project: AI Fairness & Anonymization Protocol
+Objective: Implement fairness testing and establish the "Bright Line" rule for AI decision-making.
+
+1. Performing AI-Assisted Tasks with Anonymized Inputs:
+- Protocol: To prevent demographic discrimination, AI models evaluating human subjects must be tested using anonymized inputs (e.g., removing or swapping names, genders, or zip codes).
+- Purpose: Anonymization forces the AI to evaluate based solely on objective qualifications rather than inherited dataset biases.
+
+2. Recognize AI Bias (Application):
+- The "Bright Line" Rule: AI is strictly limited to making recommendations. A named, responsible human must always make the final decision.
+- Application: We actively apply the "Swap Test" to audit AI outputs—identifying the decision, swapping a demographic variable while holding qualifications constant, setting a pass/fail line, and establishing a strict response protocol for failed tests.
