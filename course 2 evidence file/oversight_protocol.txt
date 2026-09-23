@@ -1,0 +1,10 @@
+Project: Calmscape Automation Oversight
+Objective: Design human-in-the-loop protocols and oversight frameworks to prevent silent failures in automated video publishing.
+
+1. Human-in-the-loop Approval for Critical Actions
+- Critical Action: Publishing rendered videos to the public YouTube channel.
+- Protocol (The Nod Point): The agent is permitted to render the video and upload it as 'Private' autonomously. However, it is hard-coded to halt before publishing. It must prompt the admin via terminal with the video title and length. The admin must explicitly type 'APPROVE' to authorize the final visibility change to 'Public', ensuring no corrupted content goes live automatically.
+
+2. Human Oversight Design
+- Framework: Implementation of permission gates and operational limits.
+- Implementation (The Dial): The agent is restricted to processing a maximum of two video files per week to limit potential blast radius. Additionally, a daily execution log is generated, detailing the exact file paths used and rendering times, allowing the human admin to easily monitor and evaluate the agent's behavior for anomalies without reviewing raw code.

@@ -1,0 +1,20 @@
+My Prompt:
+Persona: Act as an expert Korean linguistics tutor and instructional designer.
+Context: I am an English speaker preparing for the TOPIK I exam. I need to memorize vocabulary efficiently for my Anki flashcards.
+Task: Translate the provided cooking ingredients into Korean and format them as flashcard entries.
+Format: Return ONLY a strict CSV format with exactly three columns: Korean Word, English Translation, Example Sentence (in polite Korean). Do not include any conversational filler, markdown blocks, or headers.
+
+Examples:
+Input: Onion
+Output: 양파, Onion, 양파를 썰어요.
+
+Input: Garlic
+Output: 마늘, Garlic, 마늘을 다져요.
+
+Target Input:
+Input: Potato
+Input: Chili pepper
+
+AI Response:
+감자, Potato, 감자를 깎아요.
+고추, Chili pepper, 고추가 매워요.

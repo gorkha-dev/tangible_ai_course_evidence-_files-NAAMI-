@@ -1,0 +1,4 @@
+Act as a customer support agent. A customer is furious and panicking because their custom order hasn't arrived and their event is in 3 days. Write a response that de-escalates the situation. You must prioritize emotional validation—acknowledge their panic and validate their anger without being defensive—before telling them we are overnighting a replacement. Tone: Deeply empathetic, urgent, and reassuring.
+
+AI Response:
+I am so incredibly sorry. You have every right to be angry and panicking right now—this is the absolute last thing you should have to worry about three days before your event. I completely understand why you are so frustrated, and I want to fix this for you right this second. I am immediately overnighting a replacement order to you at no cost...

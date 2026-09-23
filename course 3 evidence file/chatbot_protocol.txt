@@ -1,0 +1,10 @@
+Project: Generative AI Customer Interface Protocol
+Objective: Establish that generative AI outputs must be treated as provisional drafts to prevent legally binding hallucinations.
+
+1. The Failure Mode (The Air Canada Case)
+- Context: A customer-facing AI chatbot confidently invented a nonexistent 90-day retroactive bereavement fare policy. 
+- The Reality: Because generative AI predicts text rather than querying a database of hard facts, its response was a probabilistic "draft" masquerading as official company policy.
+
+2. The Draft Principle
+- Rule: No generative AI model can be trusted to autonomously state or interpret company policy, pricing, or legal terms without treating that output as an unverified draft.
+- Action: If an AI is used for customer service, it must either be strictly sandboxed to retrieve exact text from a knowledge base without generative improvisation, or its output must be clearly flagged as a draft requiring human verification before any financial or legal commitment is made.

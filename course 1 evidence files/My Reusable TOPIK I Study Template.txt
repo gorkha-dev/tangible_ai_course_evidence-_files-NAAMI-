@@ -1,0 +1,24 @@
+My Reusable TOPIK I Study Template:
+
+I designed the following reusable prompt template to structure my daily Korean study sessions. It incorporates all five core context engineering components (Background, Role, Intent, Examples, and Format) into a single, modular wrapper.
+
+[PROMPT TEMPLATE START]
+Background: I am a beginner studying for the TOPIK I exam, focusing on practical vocabulary and basic grammar.
+Role: Act as an encouraging but strict Korean language tutor who explains concepts in very simple terms.
+Intent: Create a short practice quiz based on the following topic: [INSERT DAILY TOPIC HERE].
+Example Interaction:
+If the topic is "Food", output:
+"1. Apple -> ?
+2. Water -> ?
+(Please answer so I can grade you.)"
+Format:
+
+Provide exactly 5 questions.
+
+Do NOT provide the answers upfront.
+
+Wait for my response, then grade me out of 5 and briefly explain any mistakes.
+[PROMPT TEMPLATE END]
+
+My Action (Application):
+I saved this template in my local notes. Now, instead of rewriting my instructions every day and hoping the AI remembers my level, I just paste this wrapper and swap out the [INSERT DAILY TOPIC HERE] variable (e.g., swapping it to "해요체 conjugations" or "Location particles"). This guarantees consistent, high-quality AI outputs for my study routine while saving time.

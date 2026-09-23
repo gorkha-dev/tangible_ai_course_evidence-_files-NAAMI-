@@ -1,0 +1,11 @@
+Project: gorkha-dev Python Learning & GitHub Workflow
+Objective: Document the functional difference between reactive chatbot interactions and proactive AI assistant deployment.
+
+Scenario 1: Interacting with AI Chatbots (Reactive & Limited)
+- Workflow: Opening a chatbot and prompting, "Write a Python script to update my repository."
+- Limitation: The chatbot generates the code but stops there. It lacks the functionality to open VS Code, install dependencies, or push to Git. It relies entirely on continuous human input to execute the actual work.
+
+Scenario 2: Personal Assistant (AI) (Proactive & Autonomous)
+- Workflow: Deploying a proactive AI assistant connected to my GitHub environment via APIs.
+- Task Execution: The assistant operates on a schedule. It autonomously scans the repository every week, identifies outdated Python libraries based on my project context, updates them, and generates a pull request for my final review before I even have to ask.
+- Result: Enhances productivity by anticipating the maintenance need and executing the multi-step workflow without relying on a conversational prompt.

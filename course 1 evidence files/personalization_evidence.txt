@@ -1,0 +1,11 @@
+My Prompt:
+Teach me how Python decorators work. Tailor this strictly to my learning profile: I have an Advanced Diploma in IT but I'm returning to programming after a long gap. Don't treat me like a complete beginner, but don't assume the specific Python syntax is fresh in my mind. Teach progressively, explain the "why" before the "how", use practical web development examples (like route authentication or logging), and keep the tone direct and hands-on.
+
+AI Response:
+Let's get right into it.
+
+The "Why"
+In web development, you often have logic that needs to run before multiple different functions—like checking if a user is logged in before letting them view a dashboard. Instead of copy-pasting that authentication check into every single view function, a decorator lets you "wrap" the function, modifying its behavior without permanently changing its core code. It keeps your code DRY (Don't Repeat Yourself).
+
+The "How" (Practical Example)
+Here is what a simple logging decorator looks like in practice... [code snippet provided]

@@ -1,0 +1,9 @@
+[MEMO START - SESSION CONTEXT FOR TOMORROW]
+- Student: Gorkha (Santosh Nepali)
+- Status: Course 1 (Context Engineering) & Course 2 (Agentic AI) are 100% completed. Course 3 (Responsible AI) is next.
+- Technical Setup: Lenovo ThinkPad T490s, VS Code, Python 3.14.7, Git 2.55.0, GitHub (gorkha-dev), 2TB Google One, Microsoft 365 Personal.
+- Key Framework Learned: The A.G.E.N.T. framework (Aim, Go-signal, Explicit steps, Nod points, Tools & limits) and the Automation Filter (repeats, rule-based, survivable failure).
+- Personal Projects: Calmscape (ambient rain video automation via local Python, FFmpeg, and Gemini Gems with strict human-in-the-loop Nod points).
+- Core Principles: "If it doesn't make money, don't spend money on it" (free tools first). Direct, practical, witty, no AI fluff. Teach progressively and explain the "why".
+- Next Goal: Start Course 3: Responsible AI (focusing on TRUST, verification, fairness, privacy, and building a Personal AI Policy).
+[MEMO END]

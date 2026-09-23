@@ -1,0 +1,18 @@
+The Problem (Fading Context in a Long Session):
+After 45 minutes of continuously generating TOPIK I vocabulary sentences, I noticed the AI started ignoring my original formatting rule from the very first prompt (which was to always put the English translation in italics). It didn't break; it just "forgot" because the chat got too long and my original instructions fell out of its active context window.
+
+My Action (Context Window Engineering & Memory Management):
+Instead of scrolling all the way up, repeating a massive prompt, or abandoning the chat, I engineered a highly compressed "context refresh" block. I stripped out all conversational filler to optimize the AI's limited context window and forcefully managed its memory state.
+
+My Prompt (Conversational Context Management):
+"Stop. You are forgetting the format because this chat is long. Let's refresh the context.
+Current State: TOPIK I vocabulary building.
+Strict Format Rule:
+Front: [Korean Sentence]
+Back: [English Translation in Italics]
+Do not deviate. Now, apply this format to the next 5 words regarding 'Transportation'."
+
+AI Response:
+Front: 저는 기차를 탑니다.
+Back: I ride the train.
+(The AI successfully restored the proper format).

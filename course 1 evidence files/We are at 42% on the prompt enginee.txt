@@ -1,0 +1,1 @@
+We are at 42% on the prompt engineering cert. We paused at Unit 3 right after 'Creating Exemplars (Few-shot Examples)'. Here is the screenshot for the next skill—load the Bazuka and give me the form copy-paste.

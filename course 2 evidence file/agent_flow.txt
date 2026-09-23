@@ -1,0 +1,16 @@
+Project: Calmscape Video Architect Flow
+Objective: Map the sequential logic, decisions, and tool calls for an autonomous video-publishing agent.
+
+1. Go-Signal (Trigger)
+- Event: Scheduled execution every Friday at 00:00 system time.
+
+2. Sequential Actions & Tool Calls
+- Action 1 (Tool Call): Execute local directory scan to locate one approved .jpg and one .mp3 in C:\Calmscape\Ready.
+- Decision Gate: IF required files are missing, halt and log error. IF files exist, proceed to Action 2.
+- Action 2 (Tool Execution): Send command to FFmpeg to combine assets, loop audio, and render a 60-minute .mp4 file.
+- Action 3 (Tool Call): Authenticate with YouTube Data API v3.
+
+3. Nod Point (Human-in-the-Loop Decision)
+- Action 4: The agent uploads the rendered video via API with visibility set to 'Private'.
+- Action 5: The agent halts and sends a terminal prompt to the admin: "Video uploaded. Type APPROVE to make Public."
+- Decision Gate: IF admin inputs 'APPROVE', execute tool call to update API visibility to Public. IF any other input, remain Private and halt.

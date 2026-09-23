@@ -1,0 +1,23 @@
+My Pre-Prompt Checklist (Safe Mental Model & Sensitive Data Handling):
+Before pasting my TOPIK I registration confirmation email into the AI to generate a study schedule and clarify exam rules, I applied my "Safe Mental Model"—treating the AI input box as a public billboard.
+My Personal Never-Paste List applied: I manually scrubbed my home address, personal phone number, and credit card transaction ID from the email text. I only kept the exam date, test center location, and the official exam rules.
+
+My Prompt (Grounding, Unknown Handling, & Exact Quote Extraction):
+Act as a TOPIK exam advisor. I have pasted the official rules from my registration email below.
+Constraint 1 (Grounding): Answer my questions ONLY using the provided text.
+Constraint 2 (Unknown Handling): If the provided text does not explicitly contain the answer, you must reply exactly with "I don't know." Do not guess or invent facts.
+Constraint 3 (Exact Quote Extraction): For question 2, you must extract the exact verbatim sentence from the text.
+
+Questions:
+
+Can I use a digital ID on my mobile phone for verification?
+
+What is the exact policy for late arrivals? Please quote the exact line.
+
+[Provided Text: "Candidates must arrive at the test center by 9:00 AM. Doors close strictly at 9:10 AM. No candidate will be admitted after the doors close. A valid physical passport or citizenship card is required for entry."]
+
+AI Response:
+
+I don't know.
+
+"No candidate will be admitted after the doors close.

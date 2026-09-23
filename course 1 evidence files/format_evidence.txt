@@ -1,0 +1,20 @@
+My Prompt:
+Write a video description for my ambient rain video on my channel, Calmscape.
+Format constraints:
+
+Exactly 3 short bullet points.
+
+The first bullet must be under 10 words.
+
+The second bullet must contain the word 'relax'.
+
+The third bullet must be a call to action ending exactly with 'Subscribe here: [link]'.
+Do not include any introductory or concluding text outside of these 3 bullets.
+
+AI Response:
+
+Midnight rain sounds for deep sleep and studying.
+
+Let the steady downpour help you relax and unwind.
+
+Support the channel and Subscribe here: [link]

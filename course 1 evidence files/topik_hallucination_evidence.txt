@@ -1,0 +1,8 @@
+My Prompt:
+Conjugate the Korean verb 돕다 (to help) in the polite present tense (해요체) for my flashcard.
+
+AI Response (Confident but Incorrect):
+The polite present tense of 돕다 is 돕아요. You simply take the verb stem '돕' and add the standard ending '아요'.
+
+My Action/Correction:
+I recognized this as confidently incorrect. 돕다 is a 'ㅂ' irregular verb. The AI completely missed the rule where 'ㅂ' changes to '오' before adding the vowel ending. I caught the error and replied: "That is wrong. 돕다 is a 'ㅂ' irregular verb. The correct conjugation is 도와요, not 돕아요. Please update the flashcard."

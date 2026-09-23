@@ -1,0 +1,15 @@
+Project: AI Output Fact-Checking Protocol
+Objective: Demonstrate awareness of the necessity to critically evaluate AI-generated factual claims before utilization.
+
+1. The Scenario
+- Tool Used: Google Gemini (Free Tier)
+- Prompt: "Give me a list of the upcoming TOPIK I exam dates, registration deadlines, and exact testing fees for test centers in Nepal."
+- AI Output: The AI generated a formatted table listing a registration deadline of October 5th, an exam date of November 20th, and a testing fee of 4,500 NPR.
+
+2. The Fact-Checking Process (Verification)
+- Action: Instead of immediately trusting the AI's dates and adding them to a calendar or budgeting the fee, I executed an independent verification step.
+- Primary Source Check: I navigated directly to the official TOPIK website and the local EPS testing center announcements. 
+
+3. The Evaluation (Awareness of Hallucination)
+- Finding: The AI hallucinated the exact dates and the price. The actual official fee was different, and the deadline had shifted. 
+- Conclusion: AI cannot be used as an authoritative search engine for time-sensitive or financial facts. Any AI-generated content containing dates, prices, or names must be treated as a draft requiring meticulous scrutiny and cross-referencing against primary sources before any real-world decision is made.

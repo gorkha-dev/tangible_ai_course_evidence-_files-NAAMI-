@@ -1,0 +1,26 @@
+Project: Calmscape Ambient Rain Channel
+Objective: Decompose the video creation process to identify tasks for future Agentic AI automation.
+
+TASK DECOMPOSITION & CHECKLIST WORKFLOW:
+
+Phase 1: Pre-Production & Assets (Subtask Group 1)
+[ ] Define video concept (e.g., "Heavy rain in neon city").
+[ ] Generate static background image (using free AI image generator).
+[ ] Source copyright-free rain audio track.
+[ ] Source copyright-free lofi background music.
+
+Phase 2: Production & Editing (Subtask Group 2)
+[ ] Import assets into CapCut/VN Editor.
+[ ] Loop audio tracks to reach desired video length (e.g., 1 hour).
+[ ] Apply visual rain overlay effects to the static image.
+[ ] Export final video in 1080p/4K.
+
+Phase 3: Publishing & SEO (Subtask Group 3)
+[ ] Generate SEO-optimized video title.
+[ ] Generate video description with timestamps and tags.
+[ ] Upload video file to YouTube Studio.
+[ ] Apply title, description, and thumbnail.
+[ ] Run automated copyright check in YouTube Studio.
+[ ] Schedule video for publication.
+
+Note: Currently acting as "human middleware" for these steps. Goal is to transition Phases 1 and 3 to an Agentic AI workflow.

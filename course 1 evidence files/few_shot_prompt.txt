@@ -1,0 +1,19 @@
+FEW-SHOT PROMPTING EXAMPLE
+
+Task: Translate the following English phrases into polite Korean and provide the Romanization in parentheses.
+
+Example 1:
+Input: Hello
+Output: 안녕하세요 (Annyeonghaseyo)
+
+Example 2:
+Input: Thank you
+Output: 감사합니다 (Gamsahamnida)
+
+Example 3:
+Input: Yes
+Output: 네 (Ne)
+
+Target:
+Input: I am sorry
+Output:

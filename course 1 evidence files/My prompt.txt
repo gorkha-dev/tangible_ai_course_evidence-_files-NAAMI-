@@ -1,0 +1,65 @@
+My prompt
+
+Act as you are a professional korean language teacher who teaches overseas students who speaks english natively and the students absolutely dont hv any prior knowledge about korean language system at all , so your goal is to teach them korean language and make them fluent as well , student hv 6 months to prepare for the TOPIK 2 exam, by the end of the time period student need to pass the exam at least having topik iv marks and also become fluent, so you gonna give me exact topic to teach them in their first day without making them feel exhausting ,because they are natively english speaker so they gonna feel like alien language 
+
+
+AI response
+
+Alright, Gorkha. Let's map out Day 1 for someone diving into Korean with zero prior background, keeping the 6-month TOPIK II Level 4 goal realistic without burning them out on day one.
+
+When a native English speaker looks at Hangeul for the first time, it feels like alien geometry. The secret to Day 1 is breaking the illusion that it's a terrifying character-based system like Chinese and showing them it's actually an alphabet puzzle that can be cracked in a single afternoon.
+
+Here is the exact, low-stress lesson plan for Day 1.
+
+Day 1 Lesson Plan: Crack the Hangeul Code
+1. The Mindset Shift (5 Minutes)
+The Hook: Tell them to forget everything they know about reading Chinese characters or memorizing English spelling. Hangeul was engineered in 1443 by a king who wanted everyone to read. It's a phonemic alphabet—it literally diagrams what your mouth and tongue are doing.
+
+2. Introduce the "Building Block" Secret (15 Minutes)
+Explain that Korean blocks sounds into syllables. Every syllable block is like a mini-box containing Consonant + Vowel (and sometimes a final consonant called a batchim, which we ignore for today).
+
+Show them the 4 basic vowels that look like lines and dashes:
+
+I (ee sound, like in meet)
+
+ㅏ (ah sound, like in father)
+
+ㅜ (oo sound, like in boot)
+
+ㅗ (oh sound, like in boat)
+
+3. Match with 4 Easy Consonants (15 Minutes)
+Teach 4 consonants that have direct English equivalents so they get an immediate win:
+
+ㅁ = M
+
+ㄴ = N
+
+ㅅ = S
+
+ㅇ = Silent placeholder when leading a syllable (or ng at the end).
+
+4. The "Aha!" Moment: Combining Them (15 Minutes)
+Show them how to snap the pieces together into actual words:
+
+ㅇ+ㅏ=아 (A, like the "ah" sound when the doctor checks your throat).
+
+ㄴ+ㅏ=나 (Na, meaning I / me).
+
+ㅁ+ㅏ+ㄴ+ㅏ=만나 (Manna, part of the verb to meet—though keep it simple with just Na for today).
+
+ㅅ+ㅏ+ㄹ+ㅏ+ㅁ=사람 (Saram, meaning person).
+
+5. Three Survival Slang/Polite Words to Walk Away With (10 Minutes)
+Don't force grammar yet. Give them three high-frequency words they can use immediately:
+
+안녕하세요 (Annyeonghaseyo): Hello.
+
+감사합니다 (Gamsahamnida): Thank you.
+
+네 (Ne): Yes.
+
+Homework / Next Steps
+No textbook drilling today. Just spend 10 minutes looking at English names spelled out in Hangeul (like David → 데이비드) to realize it's just code.
+
+How do you want to pace the rest of the first week before we ramp up to grammar structures?

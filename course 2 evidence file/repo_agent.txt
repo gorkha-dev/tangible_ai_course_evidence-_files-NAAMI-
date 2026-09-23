@@ -1,0 +1,15 @@
+Project: gorkha-dev Python Repository Maintenance
+Objective: Apply strict instructional design, eliminate ambiguity, and implement a clarifying question protocol for an autonomous dependency-updating agent.
+
+1. Ambiguity Avoidance
+- Vague Prompt (Dangerous): "Update my old Python packages so the app runs better."
+- Applied Fix: "Scan requirements.txt. Identify packages that are more than one minor version behind the current stable release."
+
+2. Agent Instruction Design 
+- Directive: Use the 'pip list --outdated' tool to verify current package versions.
+- Constraint: Never update a major version (e.g., v2.0 to v3.0) to prevent breaking existing code. 
+- Explainability Log: If an update fails, output a log explicitly stating: "Failed to update [Package] due to dependency conflict with [Existing Library]."
+
+3. Asking Clarifying Questions (Uncertainty Protocol)
+- Trigger: If an identified package update includes deprecation warnings that will break the current Python scripts.
+- Action: The agent must halt execution and ping the admin with a targeted clarifying question: "Updating [Package X] requires refactoring the syntax in [File Y]. Do you want me to execute the update and attempt the refactor, or skip this package for now?"

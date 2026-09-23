@@ -1,0 +1,15 @@
+Project: Calmscape Ambient Rain Channel
+Objective: Define the core architecture and behavioral principles for a YouTube video publishing AI Agent.
+
+Agent Design Blueprint:
+1. Aim: Fully automate the upload and scheduling of a 1-hour ambient rain video with SEO-optimized metadata.
+2. Go-Signal: Triggered autonomously when a new completed video file is detected in a specific local watch folder.
+3. Explicit Steps: 
+   - Read the video file properties.
+   - Generate an SEO title and description based on the file name.
+   - Upload the video file via the YouTube API.
+   - Set visibility to 'Private' pending review.
+4. Nod Points: Human review is strictly required to approve the generated title and thumbnail before the agent can switch the status to 'Scheduled' or 'Public'.
+5. Tools & Limits: Access granted to the YouTube Data API (upload scope only) and the local watch folder. Strictly forbidden from deleting local files or accessing other accounts.
+
+Conclusion: This outlines an autonomous software entity capable of interacting with its environment (local file system, YouTube API) and executing tasks based on predefined triggers and limitations, rather than relying on reactive chat prompts.

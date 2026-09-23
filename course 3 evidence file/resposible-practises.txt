@@ -1,0 +1,11 @@
+Project: AI Operational Governance Framework
+Objective: Establish operational practices to ensure AI systems are trustworthy, safe, and ethically compliant before deployment.
+
+1. The Paradigm Shift: 'Works' vs. 'Right'
+- The Baseline: A system that "works" simply executes its code successfully (e.g., outputs clean text, compiles without errors, hits send). 
+- The Standard: A system that is "right" must pass practical hazard checks validating that its outputs are True, Fair, and Safe. Responsible AI operates as a set of mandatory workplace safety checks for software.
+
+2. Operational Strategies (Risk Mitigation)
+- Truth & Reliability (Hallucination Mitigation): Operational policy dictates that AI cannot be used as an authoritative source for facts. All dates, names, and financial data must be verified against primary sources.
+- Fairness (Bias Mitigation): AI systems are restricted from making final, autonomous decisions regarding human scoring or ranking to prevent the perpetuation of historical biases.
+- Safety (Privacy & Security): Strict data handling rules are enforced. Unredacted Personally Identifiable Information (PII), proprietary code, and sensitive client data are strictly prohibited from being processed through public or unvetted AI tools.

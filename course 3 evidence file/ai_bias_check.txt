@@ -1,0 +1,13 @@
+Project: AI Bias Recognition Protocol
+Objective: Demonstrate awareness of how AI systems can perpetuate inequalities through biased datasets and opaque decision-making.
+
+1. The Failure Mode (The "Why")
+- Scenario: Using an AI agent to rank candidate CVs.
+- The Issue: AI models are trained on historical human data. If past hiring was predominantly male or favored specific demographics, the AI learns to replicate that pattern. It may quietly penalize a resume for containing the word "women's" or for having an ethnic-sounding name, falsely equating those traits with a lack of qualification.
+
+2. The Blast Radius (The Stakes)
+- Impact: Highly qualified candidates are systematically filtered out for reasons entirely unrelated to their skills. This leads to discriminatory hiring, a homogenized workforce, and severe legal liability for the company.
+
+3. The Policy Boundary (The Rule)
+- Action: AI must never make final, autonomous ranking or hiring decisions. 
+- Verification: To mitigate bias, organizations must implement "blind screening" (stripping names, addresses, and graduation dates before AI processing) and mandate that a human always audits the final shortlist.

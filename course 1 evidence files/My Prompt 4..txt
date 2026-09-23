@@ -1,0 +1,29 @@
+My Prompt (Applying Constraints/Grounding):
+Act as a TOPIK I Korean tutor. I am creating an Anki reading comprehension flashcard about cooking a simple vegetable stew.
+Constraint 1: You must ONLY use the following ingredients: 감자 (potato), 양파 (onion), 마늘 (garlic), and 고추 (chili pepper).
+Constraint 2: Do not include any meat or seafood.
+Constraint 3: State that the cooking time is exactly 15 minutes.
+Format: Write a 3-sentence Korean paragraph using polite/formal (해요체) grammar, followed by the English translation.
+
+AI Response (The Flawed Draft):
+Korean: 저는 채소 찌개를 끓여요. 냄비에 감자, 양파, 마늘, 고추, 그리고 돼지고기를 넣어요. 찌개는 30분 동안 끓여요. 아주 맛있어요!
+English: I am cooking vegetable stew. I put potato, onion, garlic, chili pepper, and pork into the pot. I boil the stew for 30 minutes. It is very delicious!
+
+My Review & Fact-Checking (Recognizing Draft & Spotting Errors):
+Instead of exporting this directly to Anki, I reviewed the draft and fact-checked it against my initial constraints.
+
+Confident Incorrect Output/Hallucination: The AI confidently added 돼지고기 (pork) to the stew, likely because its training data strongly associates Korean stews with meat. It ignored my strict "no meat" grounding constraint.
+
+Fact-Checking Error: It stated the cooking time was 30분 (30 minutes) instead of the explicitly requested 15분 (15 minutes).
+
+My Correction Prompt:
+This draft is incorrect. You failed to follow the constraints.
+
+Remove 돼지고기 (pork) as I explicitly said no meat.
+
+Change the cooking time from 30분 to 15분.
+Rewrite the paragraph.
+
+Final AI Response:
+Korean: 저는 채소 찌개를 끓여요. 냄비에 감자, 양파, 마늘, 그리고 고추만 넣어요. 찌개는 15분 동안 끓여요. 아주 맛있어요!
+English: I am cooking vegetable stew. I only put potato, onion, garlic, and chili pepper into the pot. I boil the stew for 15 minutes. It is very delicious!

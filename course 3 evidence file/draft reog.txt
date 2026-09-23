@@ -1,0 +1,10 @@
+Project: AI Output Draft Recognition Protocol
+Objective: Establish the operational principle that all AI-generated content must be treated as a preliminary draft requiring human refinement.
+
+1. The Draft Principle
+- Concept: Because AI generates text based on statistical probability rather than actual comprehension, its outputs—no matter how polished or authoritative they look—are inherently provisional. 
+- Application: An AI-generated YouTube description, a summarized report, or a code snippet is never a final product. It is a "first draft."
+
+2. The Policy Boundary
+- Rule: Never copy-paste AI output directly into a production environment, public-facing channel, or decision-making pipeline without a mandatory human review phase. 
+- Action: The human operator must actively refine the draft to correct potential hallucinations, adjust the tone, and verify contextual accuracy before finalizing the task.

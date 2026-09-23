@@ -1,0 +1,20 @@
+Project: Calmscape Video Automation
+Objective: Decompose the video creation process into rule-based, step-by-step instructions for an agent.
+
+1. Task Decomposition & Prompt Breakdown
+Original Complex Task: "Make and upload a new rain video."
+Decomposed Agent Directives:
+- Phase A (Asset Prep): Verify image and audio assets in the local input folder.
+- Phase B (Rendering): Generate a 60-minute video combining the assets.
+- Phase C (Publishing): Upload the final file to YouTube via API.
+
+2. Procedural Knowledge (Step-by-Step Schema)
+- Step 1: Scan `C:\Calmscape\Raw` for one `.jpg` and one `.mp3` file.
+- Step 2: Use FFmpeg to combine the image and audio into an `.mp4` container.
+- Step 3: Authenticate with the YouTube API using saved credentials.
+- Step 4: Push the `.mp4` file to the channel with visibility set to 'Private'.
+
+3. Rule-Based Decision Making (If/Then Logic)
+- Rule 1: IF multiple `.mp3` files exist in the folder, THEN select the most recently modified file.
+- Rule 2: IF the audio track is less than 60 minutes, THEN loop the audio track until it reaches exactly 60 minutes.
+- Rule 3: IF the YouTube API returns an authentication error, THEN log "API Error" and halt the script immediately without retrying.

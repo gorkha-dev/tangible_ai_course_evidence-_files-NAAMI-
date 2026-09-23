@@ -1,0 +1,14 @@
+Project: Calmscape Ambient Rain Agent
+Objective: Refine agent instructions to eliminate ambiguity and define constraints under uncertainty.
+
+1. The Ambiguous Prompt (The Danger):
+"Find a rain picture on my PC and upload a 1-hour video today."
+- Why it fails: "Find a rain picture" is dangerously vague. The agent might pull personal photos or low-resolution images from the wrong folder.
+
+2. The Revised, Unambiguous Instruction (Agent Design):
+- Purpose: Generate and upload a 1-hour ambient rain video using pre-approved assets.
+- Explicit Pathing: Pull the static background image ONLY from the directory `C:\Calmscape\Approved_Backgrounds\`. 
+- Constraint: Do not search the internet or any other local drives for images.
+- Behavior Under Uncertainty: If the `Approved_Backgrounds` folder is empty, DO NOT attempt to find a replacement image or generate one. Immediately halt the execution process and send an error log to the admin. 
+
+Conclusion: Vague commands have been replaced with precise directory paths, explicit limitations, and a clear failure protocol to ensure predictable autonomous behavior.

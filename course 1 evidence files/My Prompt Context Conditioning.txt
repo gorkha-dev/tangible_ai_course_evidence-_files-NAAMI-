@@ -1,0 +1,32 @@
+My Prompt (Context Conditioning & Grounding):
+Act as a TOPIK I examiner. I am providing a short Korean reading passage below.
+[Passage: "저는 아침 7시에 일어납니다. 밥을 먹고 8시에 학교에 갑니다. 학교에서 한국어를 공부합니다. 오후 1시에 도서관에서 친구를 만납니다."]
+
+Please answer the following questions based strictly and ONLY on the provided passage.
+Constraint 1 (Grounding): Do not use any outside knowledge or assumptions about daily routines.
+Constraint 2 (Unknown Handling): If the passage does not explicitly contain the information to answer a question, you must reply exactly with "알 수 없음" (Unknown). Do not guess.
+
+Questions:
+
+What time does this person wake up?
+
+What exactly does this person eat for breakfast?
+
+Where do they go at 8 AM?
+
+AI Response:
+
+7 AM.
+
+알 수 없음.
+
+학교 (School).
+
+My Fact-Checking & Verification:
+Before using this as a study template, I manually fact-checked the AI's output against the original source text.
+
+Q1 Verification: The text explicitly says "아침 7시에 일어납니다" (wake up at 7 AM). Fact check passed.
+
+Q2 Verification: The text says "밥을 먹고" (eats a meal) but does not specify the food. The AI successfully followed the unknown handling constraint and output "알 수 없음" instead of hallucinating a typical Korean breakfast. Fact check passed.
+
+Q3 Verification: The text says "8시에 학교에 갑니다" (goes to school at 8 AM). Fact check passed.

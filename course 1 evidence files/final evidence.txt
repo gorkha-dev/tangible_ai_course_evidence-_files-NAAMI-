@@ -1,0 +1,22 @@
+1. Evaluating AI Outputs:
+I evaluated an AI-generated TOPIK I mock reading test. Upon close review, I noticed the AI included intermediate grammar structures (like -기 때문에) that are beyond the official TOPIK I syllabus. I actively critiqued the output, rejected the overly complex sentences, and instructed the AI to simplify the grammar to strictly match the beginner level.
+
+2. Comparative Activity Design (AI vs non-AI):
+I designed a study activity comparing traditional vocabulary learning (manually looking up words in Naver Dictionary and writing them in a notebook) versus using an AI to generate a ready-to-import Anki flashcard deck complete with contextual Korean sentences. This comparative exercise proved that while the non-AI method builds better initial muscle memory, the AI method drastically accelerates exposure to natural sentence structures and saves hours of manual data entry.
+
+3. Reflective Evaluation of AI Assistance:
+Reflecting on my use of AI for Korean language preparation, I realized it is an incredible productivity multiplier for generating practice materials. However, I also recognized the danger of "automation complacency." I caught myself trusting a slightly inaccurate vocabulary nuance without verifying it. This highlighted the critical need to remain an active learner, treat the AI as a drafting tool, and verify its translations against trusted sources.
+
+4. Self-Assessment with Rubric:
+I evaluated my master TOPIK study prompt against the 5-point Context Engineering rubric:
+
+Background: Pass (Clearly stated TOPIK I goal)
+
+Role: Pass (Defined as a strict, simple-speaking tutor)
+
+Intent: Pass (Explicitly asked for a 5-question quiz)
+
+Examples: Pass (Provided a clear Q&A format template)
+
+Format: Pass (Instructed the AI to wait for my response before grading)
+Self-Assessment: My prompt design successfully hits all criteria, ensuring a highly structured and reliable study session every time.

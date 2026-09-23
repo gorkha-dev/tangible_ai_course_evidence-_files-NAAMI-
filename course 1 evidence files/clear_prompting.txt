@@ -1,0 +1,12 @@
+My Prompt:
+Explain what a Git merge conflict is.
+Context: I have an IT diploma but I am returning to programming after a long gap. I need a quick, practical refresher, not a beginner's essay.
+Format: Exactly 3 short bullet points. The first bullet must define it. The second must explain why it happens. The third must provide the exact terminal command to abort a merge. Maximum 60 words total.
+
+AI Response:
+
+A merge conflict happens when Git cannot automatically resolve differences in code between two commits.
+
+It occurs when two branches modify the exact same line in a file, or one branch deletes a file another modified.
+
+To back out and stop the process, use: git merge --abort.

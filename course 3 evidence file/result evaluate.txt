@@ -1,0 +1,12 @@
+Project: AI Output Evaluation Framework
+Objective: Systematically assess AI-generated content to identify flaws, biases, and gaps in reasoning before relying on the output in decision-making processes.
+
+1. The Failure Mode (The "Why")
+- Scenario: Using an AI assistant to summarize 30 CVs and recommend the top three candidates.
+- The Issue: AI generates text based on statistical probability, not true comprehension. It can produce a highly articulate, persuasive summary that confidently connects a candidate's irrelevant hobby to a core job requirement. This creates a severe gap in reasoning, masked by flawless professional formatting.
+
+2. The Blast Radius (The Stakes)
+- Impact: Accepting the AI's reasoning at face value leads to compromised decision-making. You risk hiring based on flawed, probabilistic logic rather than actual competency, undermining the entire recruitment process.
+
+3. The Verification Method (The Anchor)
+- Action: Implement a mandatory "Logic Audit." Instead of passively accepting the AI's final recommendation, a human must cross-examine the AI's justification. By asking the AI, "Explain step-by-step why this candidate was ranked number one," you can expose the gaps in its reasoning and manually verify if its logic aligns with actual business requirements.

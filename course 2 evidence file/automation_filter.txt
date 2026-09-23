@@ -1,0 +1,17 @@
+Project: Personal Workflow Automation Filter
+Objective: Apply evaluation criteria to determine appropriate AI automation levels across development and media tasks.
+
+1. Workflow Identification for Automation (Workflow Evaluation)
+- Target Workflow: Generating SEO metadata and descriptions for weekly Calmscape ambient rain videos.
+- Evaluation: This process repeats weekly, follows strict structured formatting rules (title, two-paragraph description, tags), and any errors are fully survivable because they are reviewed before publishing.
+- Conclusion: Approved for AI agent automation via a custom Gemini Gem.
+
+2. Task-level AI Use Judgment (Granular Control)
+- Target Task: Deciding whether to let an AI agent autonomously write and push raw Python code updates to the main production branch of gorkha-dev.
+- Evaluation: While coding assistance is useful, autonomous pushing fails the safety check (one wrong run is catastrophic and not easily survivable). 
+- Conclusion: Task restricted to AI drafting and code review, requiring strict human-in-the-loop approval before any merge or push.
+
+3. AI Tool-Use Judgment (Tool Selection & Stakes)
+- Target Decision: Choosing between building a complex paid cloud automation pipeline vs. utilizing free local Python scripts and free custom Gemini instances.
+- Evaluation: Adheres strictly to the personal operational rule ("If it doesn't make money, don't spend money on it"). Free tools fully satisfy the technical requirements without incurring financial overhead.
+- Conclusion: Selected free open-source tools and local execution workflows over paid alternatives.

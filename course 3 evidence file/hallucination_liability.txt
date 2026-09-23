@@ -1,0 +1,10 @@
+Project: AI Hallucination Liability Assessment
+Objective: Recognize that AI outputs require human verification because confident hallucinations are indistinguishable from factual accuracy.
+
+1. The "Confident and Correct" Trap
+- Context: An AI inbox agent invented a "weather flex policy" based on outdated information, offering free date changes to a customer.
+- The Danger: Generative AI presents fabricated information with the exact same professional tone, formatting, and confidence as a true statement.
+
+2. The Draft Policy Enforcement
+- Rule: Because AI hallucinations scale instantly across hundreds of automated messages, AI-generated customer responses must be treated as unverified drafts.
+- Action: Organizations must implement human-in-the-loop verification for any AI output that dictates company policy, pricing, or terms of service to prevent financial and legal liability.

@@ -1,0 +1,14 @@
+Friday Session (End of session):
+My Prompt (Conversation Memory Management):
+We just spent an hour building a custom TOPIK I 4-week study schedule. Before I close this chat, generate a condensed 3-sentence summary of my current skill level and our study plan so I can feed it back to you next time.
+AI Response:
+"The user is preparing for the TOPIK I exam, focusing on vocabulary and polite/formal (해요체) grammar. The 4-week schedule requires daily practice. Daily tasks include 30 minutes of Anki flashcards and 15 minutes of reading simple paragraphs."
+
+My Action (Managing Chat History):
+During our Friday brainstorming, I accidentally pasted some personal calendar details. To protect my privacy and ensure good data hygiene, I went into the AI platform's settings and permanently deleted that specific chat history so it wouldn't be retained on the servers.
+
+Monday Session (New Chat):
+My Prompt (Conversational Context Management):
+Let's pick up where we left off. Here is the context from our previous, now-deleted session:
+"The user is preparing for the TOPIK I exam, focusing on vocabulary and polite/formal (해요체) grammar. The 4-week schedule requires daily practice. Daily tasks include 30 minutes of Anki flashcards and 15 minutes of reading simple paragraphs."
+Based strictly on this restored context, generate my first 5 Anki vocabulary words for today's 30-minute session.

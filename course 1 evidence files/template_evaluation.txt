@@ -1,0 +1,16 @@
+EVALUATION OF RAG PROMPT TEMPLATES
+
+Scenario: Customer Service Bot answering questions based on company documents.
+
+Template A (Original/Unguarded):
+"Answer the user's question based on the provided documents: {documents}. 
+Question: {question}"
+
+Template B (Guarded/Robust):
+"You are a helpful customer service assistant. Answer the user's question ONLY using the provided documents: {documents}. If the answer is not explicitly contained in the documents, you must output: 'I cannot answer this based on the provided context.' Do not use outside knowledge or hallucinate information. 
+Question: {question}"
+
+Comparison & Evaluation:
+- Safety & Correctness: Template A is weak. If the '{documents}' don't contain the answer, the AI is likely to hallucinate or pull from its general training data, leading to incorrect information being given to the customer. 
+- Robustness: Template B is highly robust. By adding strict constraints ("ONLY using...") and a definitive fallback phrase ("I cannot answer this..."), we prevent hallucinations and ensure the AI remains safely grounded in the provided context. 
+- Conclusion: Template B is the superior template for a production environment where factual accuracy is required.

@@ -1,0 +1,17 @@
+Project: Calmscape Metadata Generator Gem
+Objective: Configure a custom Gemini Gem with saved instructions to act as an automated writing assistant for YouTube video publishing.
+
+1. Configure Saved Instructions (Tool-Specific Setup)
+- Tool: Google Gemini (Custom Gem)
+- Name: Calmscape Metadata Scribe
+- Saved Instructions (The Spec): "You are the copywriter for the Calmscape ambient rain channel. When I provide a video length and visual theme, generate one SEO-optimized YouTube title, a 2-paragraph relaxing description, and 15 relevant tags. Do not use emojis. Keep the tone soothing, minimalist, and atmospheric."
+
+2. Using AI Assistant Tools (Workflow Integration)
+- Execution: Opened the custom 'Calmscape Metadata Scribe' Gem interface.
+- Go-Signal Prompt: "Generate metadata for a 1-hour video featuring a dark city street with heavy rain."
+- Result: The AI Assistant executed the saved instructions instantly, replacing a 15-minute manual task with a 10-second automated workflow. 
+
+3. Using AI Writing Assistant (Drafting & Refining Text)
+- Drafting: The AI generated the initial title ("1 Hour Heavy City Rain for Sleep") and description.
+- Refining: Used the assistant to iterate the text by prompting: "Make the second paragraph of the description sound more melancholic and focus on the sound of the rain hitting concrete."
+- Final Output: Successfully drafted, edited, and refined the final YouTube metadata block for immediate publishing.
