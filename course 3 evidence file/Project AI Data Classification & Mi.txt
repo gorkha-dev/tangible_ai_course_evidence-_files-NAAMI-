@@ -1,0 +1,10 @@
+Project: AI Data Classification & Minimization
+Objective: Apply the "Classify first, paste second" framework to protect sensitive data before interacting with AI tools.
+
+1. Identifying Sensitive Personal Data (Application):
+- Analyzed inputs to classify information into specific risk levels.
+- Successfully identified Level 4 highly sensitive data (e.g., customer names, phone numbers, personal medical notes) that must be completely stripped before using AI.
+
+2. Sensitive Data Handling with AI Tools (Application):
+- Implemented a strict minimization workflow for AI prompts.
+- Applied data stripping and generalization techniques (e.g., replacing exact addresses with generic location tags) to ensure no Personally Identifiable Information (PII) or confidential margins are ever pasted into public AI models.

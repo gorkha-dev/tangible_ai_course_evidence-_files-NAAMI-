@@ -1,0 +1,8 @@
+Project: AI Agent TRUST Audit & Policy Implementation
+Objective: Apply the 5-step TRUST framework to evaluate and fix an AI agent workflow to ensure ethical and responsible use.
+
+1. Trace: Implemented a manual sampling rate (checking 10% of outputs) to verify the accuracy of the AI agent's summaries.
+2. Respect: Applied the 4-level data classification protocol to strip all PII (Level 4) and generalize internal data (Level 2) before prompting the model.
+3. Uncover: Conducted a Swap Test on the agent's evaluation criteria to identify and eliminate potential demographic bias.
+4. Show: Added a mandatory transparency signature ("Drafted with AI assistance, reviewed by me") on all outward-facing outputs.
+5. Take: Established clear human accountability for the final output, ensuring the AI is treated as a tool, not a scapegoat.

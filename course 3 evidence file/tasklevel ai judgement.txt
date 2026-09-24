@@ -1,0 +1,8 @@
+Project: AI Task-Level Judgment & Transparency
+Objective: Evaluate the appropriate level of AI involvement in tasks and recognize when human intervention is required.
+
+1. Evaluating AI Involvement:
+- AI is highly capable of generating content for performance summaries, mass customer replies, and even condolence notes. However, technical capability does not equal ethical appropriateness.
+
+2. The Need for Human Judgment:
+- When a task requires genuine empathy (e.g., a condolence note) or strict accountability (e.g., an employee review), AI should only assist, not completely take over. Sending an AI-generated sensitive message without human review or transparency breaks trust. Task-level judgment means knowing when to step in and apply the human touch.

@@ -1,0 +1,7 @@
+Project: AI Transparency & Disclosure Application
+Objective: Apply the 4-question disclosure test and establish clear ownership of AI-assisted work.
+
+1. Task-level AI Use Judgment (Application):
+- I actively applied the 4-question test (Would they act differently? Personally human? Consequential decision? The honest test) to evaluate recent AI-assisted tasks and determine if disclosure was necessary.
+- For high-impact communications, such as performance summaries and sensitive client emails, I applied transparent disclosure.
+- Implemented a standard signature protocol for AI-assisted outputs: "Drafted with AI assistance, reviewed and approved by me." This ensures full human accountability and maintains trust.
